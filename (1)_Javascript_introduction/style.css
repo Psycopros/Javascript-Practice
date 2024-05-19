@@ -1,0 +1,14 @@
+body{
+    font-family:  Calibri;
+}
+
+#title{
+    text-align: center;
+}
+
+#text{
+    font-size: large;
+    margin: 18px;
+    text-align: justify;
+}
+
