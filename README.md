@@ -1,8 +1,8 @@
+
 # Javascript Practice
 Welcome to my personal daily JavaScript learning! I try my best learn many stuff every single day. I do some basic or new technique and sometimes a little project. i hope oneday im able master this stuff.
 
 # Repository Structure
-### 
 
  - [(1) Javascript introduction](https://github.com/Psycopros/Javascript-Practice/tree/main/(1)_Javascript_introduction
    "(1)_Javascript_introduction")
@@ -22,18 +22,14 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 big thanks to this amazing stuff i can learn JavaScript for free you should give a try!
 
 **Video Learning**
-> very easy tutorial and strightforward to practice best choice if you want fast learn
+>[Javascript Playlist by BroCode(YouTube)](https://www.youtube.com/playlistlist=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1): very easy tutorial and strightforward to practice best choice if you want fast learn
 
-> [Javascript Playlist by BroCode (YouTube)](https://www.youtube.com/playlistlist=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1)
 
 
 **Documentation Learning**
-> best website to learn if you want know all lesson easily with many example you can try directly
+>[JavaScript Tutorial (w3school)](https://www.w3schools.com/js/): best website to learn if you want know all lesson easily with many example you can try directly
 
-> [JavaScript Tutorial (w3school)](https://www.w3schools.com/js/)
 
 
 **Detailed Learning**
->good if you want very detailed explanation and more advanced case of javascript implementation or example
-
-> [Chat-GPT](https://chatgpt.com/)
+>[Chat-GPT](https://chatgpt.com/): good if you want very detailed explanation and more advanced case of javascript implementation or example
