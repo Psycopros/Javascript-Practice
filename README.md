@@ -4,12 +4,10 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 
 # Repository Structure
 
- - [(1) Javascript introduction](https://github.com/Psycopros/Javascript-Practice/tree/main/(1)_Javascript_introduction
-   "(1)_Javascript_introduction")
- - [(2) Javascript variable](https://github.com/Psycopros/Javascript-Practice/tree/main/(2)_Javascript_variable
-   "(2)_Javascript_variable")
- - [(3) Javascript Arithmetic operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(3)_Javascript_Arithmetic_operator
-   "(3)_Javascript_Arithmetic_operator")
+ - [(1) Javascript Introduction](https://github.com/Psycopros/Javascript-Practice/tree/main/(1)_Javascript_introduction)
+ - [(2) Javascript Variable](https://github.com/Psycopros/Javascript-Practice/tree/main/(2)_Javascript_variable)
+ - [(3) Javascript Arithmetic operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(3)_Javascript_Arithmetic_operator)
+ - [(4) Javascript User Input](https://github.com/Psycopros/Javascript-Practice/tree/main/(4)_User_input)
 
 # Goals
 
@@ -22,13 +20,11 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 big thanks to this amazing stuff i can learn JavaScript for free you should give a try!
 
 **Video Learning**
->[Javascript Playlist by BroCode(YouTube)](https://www.youtube.com/playlistlist=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1): very easy tutorial and strightforward to practice best choice if you want fast learn
-
+>[Javascript Playlist by BroCode(YouTube)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1): very easy tutorial and strightforward to practice best choice if you want fast learn
 
 
 **Documentation Learning**
 >[JavaScript Tutorial (w3school)](https://www.w3schools.com/js/): best website to learn if you want know all lesson easily with many example you can try directly
-
 
 
 **Detailed Learning**
