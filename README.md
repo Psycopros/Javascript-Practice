@@ -4,13 +4,13 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 
 # Repository Structure
 
- - [(1) Javascript Introduction](https://github.com/Psycopros/Javascript-Practice/tree/main/(1)_Javascript_introduction)
- - [(2) Javascript Variable](https://github.com/Psycopros/Javascript-Practice/tree/main/(2)_Javascript_variable)
- - [(3) Javascript Arithmetic Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(3)_Javascript_Arithmetic_operator)
- - [(4) Javascript User Input](https://github.com/Psycopros/Javascript-Practice/tree/main/(4)_User_input)
- - [(5) Javascript Type Conversion](https://github.com/Psycopros/Javascript-Practice/tree/main/(5)_Javascript_type_conversion)
- - [(6) Javascript Constants](https://github.com/Psycopros/Javascript-Practice/tree/main/(6)_Javascript_constants)
- - [(7) Javascript Counter Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(7)_Javascript_counter_program)
+> - [(1) Javascript Introduction](https://github.com/Psycopros/Javascript-Practice/tree/main/(1)_Javascript_introduction)
+> - [(2) Javascript Variable](https://github.com/Psycopros/Javascript-Practice/tree/main/(2)_Javascript_variable)
+> - [(3) Javascript Arithmetic Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(3)_Javascript_Arithmetic_operator)
+> - [(4) Javascript User Input](https://github.com/Psycopros/Javascript-Practice/tree/main/(4)_User_input)
+> - [(5) Javascript Type Conversion](https://github.com/Psycopros/Javascript-Practice/tree/main/(5)_Javascript_type_conversion)
+> - [(6) Javascript Constants](https://github.com/Psycopros/Javascript-Practice/tree/main/(6)_Javascript_constants)
+> - [(7) Javascript Counter Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(7)_Javascript_counter_program)
 
 # Goals
 
