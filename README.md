@@ -2,7 +2,7 @@
 # Javascript Practice
 Welcome to my personal daily JavaScript learning! I try my best learn many stuff every single day. I do some basic or new technique and sometimes a little project. i hope oneday im able master this stuff.
 
-# Repository Structure
+## Repository Structure
 
 > - [(1) Javascript Introduction](https://github.com/Psycopros/Javascript-Practice/tree/main/(1)_Javascript_introduction)
 > - [(2) Javascript Variable](https://github.com/Psycopros/Javascript-Practice/tree/main/(2)_Javascript_variable)
@@ -12,14 +12,14 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(6) Javascript Constants](https://github.com/Psycopros/Javascript-Practice/tree/main/(6)_Javascript_constants)
 > - [(7) Javascript Counter Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(7)_Javascript_counter_program)
 
-# Goals
+## Goals
 
  1. Understanding and master javascript
  2. Able to make some project with javascript based
  3. First step to learn many javascript framework like vue.js , nuxt.js and more
  4. Can use my skill on real world such as work and job
 
-#  Resource
+##  Resource
 big thanks to this amazing stuff i can learn JavaScript for free. you should give a try!
 
 **Video Learning**
