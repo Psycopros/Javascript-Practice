@@ -9,6 +9,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
  - [(3) Javascript Arithmetic Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(3)_Javascript_Arithmetic_operator)
  - [(4) Javascript User Input](https://github.com/Psycopros/Javascript-Practice/tree/main/(4)_User_input)
  - [(5) Javascript Type Conversion](https://github.com/Psycopros/Javascript-Practice/tree/main/(5)_Javascript_type_conversion)
+ - [(6) Javascript Constants](https://github.com/Psycopros/Javascript-Practice/tree/main/(6)_Javascript_constants)
 
 # Goals
 
