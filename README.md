@@ -13,13 +13,13 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 
 # Goals
 
- 1. understanding and master javascript
- 2. able to make some project with javascript based
- 3. first step to learn many javascript framework like vue.js , nuxt.js and more
- 4. can use my skill on real world such as work and job
+ 1. Understanding and master javascript
+ 2. Able to make some project with javascript based
+ 3. First step to learn many javascript framework like vue.js , nuxt.js and more
+ 4. Can use my skill on real world such as work and job
 
 #  Resource
-big thanks to this amazing stuff i can learn JavaScript for free you should give a try!
+big thanks to this amazing stuff i can learn JavaScript for free. you should give a try!
 
 **Video Learning**
 >[Javascript Playlist by BroCode (YouTube)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1): very easy tutorial and strightforward to practice best choice if you want fast learn
@@ -31,3 +31,4 @@ big thanks to this amazing stuff i can learn JavaScript for free you should give
 
 **Detailed Learning**
 >[Chat-GPT](https://chatgpt.com/): good if you want very detailed explanation and more advanced case of javascript implementation or example
+>[Gemini](https://gemini.google.com/): Same like GPT but with faster responded with many output in sametime also free trial premium model!
