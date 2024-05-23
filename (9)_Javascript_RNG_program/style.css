@@ -1,0 +1,33 @@
+body{
+    font-family: segoe UI;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.number{
+    font-size: 86px;
+    padding: 0px 20px;
+    border: 2px solid;
+    margin: 0px 10px;
+}
+
+#submit{
+    font-size: 24px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: azure;
+    background-color: blueviolet;
+    margin: 20px 0px;
+    transition: 0.25s;
+}
+
+#submit:hover{
+    background-color: rgb(51, 0, 99);
+}
