@@ -11,6 +11,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(5) Javascript Type Conversion](https://github.com/Psycopros/Javascript-Practice/tree/main/(5)_Javascript_type_conversion)
 > - [(6) Javascript Constants](https://github.com/Psycopros/Javascript-Practice/tree/main/(6)_Javascript_constants)
 > - [(7) Javascript Counter Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(7)_Javascript_counter_program)
+> - [(8) Javascript Math Object](https://github.com/Psycopros/Javascript-Practice/tree/main/(8)_Javascript_math_object)
 
 ## Goals
 
@@ -20,7 +21,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
  4. Can use my skill on real world such as work and job
 
 ##  Resource
-big thanks to this amazing stuff i can learn JavaScript for free. you should give a try!
+Big thanks to this amazing stuff i can learn JavaScript for free. you should give a try!
 
 **Video Learning**
 > - [Javascript Playlist by BroCode (YouTube)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1): very easy tutorial and strightforward to practice best choice if you want fast learn
