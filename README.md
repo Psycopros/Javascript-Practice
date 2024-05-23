@@ -12,6 +12,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(6) Javascript Constants](https://github.com/Psycopros/Javascript-Practice/tree/main/(6)_Javascript_constants)
 > - [(7) Javascript Counter Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(7)_Javascript_counter_program)
 > - [(8) Javascript Math Object](https://github.com/Psycopros/Javascript-Practice/tree/main/(8)_Javascript_math_object)
+> - [(9) Javascript RNG Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(9)_Javascript_RNG_program)
 
 ## Goals
 
