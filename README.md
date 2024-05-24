@@ -4,15 +4,16 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 
 ## Repository Structure
 
-> - [(1) Javascript Introduction](https://github.com/Psycopros/Javascript-Practice/tree/main/(1)_Javascript_introduction)
-> - [(2) Javascript Variable](https://github.com/Psycopros/Javascript-Practice/tree/main/(2)_Javascript_variable)
-> - [(3) Javascript Arithmetic Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(3)_Javascript_Arithmetic_operator)
-> - [(4) Javascript User Input](https://github.com/Psycopros/Javascript-Practice/tree/main/(4)_User_input)
-> - [(5) Javascript Type Conversion](https://github.com/Psycopros/Javascript-Practice/tree/main/(5)_Javascript_type_conversion)
-> - [(6) Javascript Constants](https://github.com/Psycopros/Javascript-Practice/tree/main/(6)_Javascript_constants)
-> - [(7) Javascript Counter Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(7)_Javascript_counter_program)
-> - [(8) Javascript Math Object](https://github.com/Psycopros/Javascript-Practice/tree/main/(8)_Javascript_math_object)
-> - [(9) Javascript RNG Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(9)_Javascript_RNG_program)
+> - [(01) Javascript Introduction](https://github.com/Psycopros/Javascript-Practice/tree/main/(01)_Javascript_introduction)
+> - [(02) Javascript Variable](https://github.com/Psycopros/Javascript-Practice/tree/main/(02)_Javascript_variable)
+> - [(03) Javascript Arithmetic Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(03)_Javascript_Arithmetic_operator)
+> - [(04) Javascript User Input](https://github.com/Psycopros/Javascript-Practice/tree/main/(04)_User_input)
+> - [(05) Javascript Type Conversion](https://github.com/Psycopros/Javascript-Practice/tree/main/(05)_Javascript_type_conversion)
+> - [(06) Javascript Constants](https://github.com/Psycopros/Javascript-Practice/tree/main/(06)_Javascript_constants)
+> - [(07) Javascript Counter Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(07)_Javascript_counter_program)
+> - [(08) Javascript Math Object](https://github.com/Psycopros/Javascript-Practice/tree/main/(08)_Javascript_math_object)
+> - [(09) Javascript RNG Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(09)_Javascript_RNG_program)
+> - [(10) Javascript If statement](https://github.com/Psycopros/Javascript-Practice/tree/main/(10)_Javascript_If_Statement)
 
 ## Goals
 
