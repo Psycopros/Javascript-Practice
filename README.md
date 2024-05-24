@@ -1,6 +1,6 @@
 
 # Javascript Practice
-Welcome to my personal daily JavaScript learning! I try my best learn many stuff every single day. I do some basic or new technique and sometimes a little project. i hope oneday im able master this stuff.
+Welcome to my personal daily JavaScript learning! I try my best learn many stuff every single day. I do some basic or new technique and sometimes a little project. I hope oneday im able master this stuff.
 
 ## Repository Structure
 
