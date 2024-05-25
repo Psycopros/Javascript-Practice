@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Select Your payment</h1>
+    <hr>
+
+    <div class="container">
+        <div class="payment">
+            <input type="radio" id="visa" name="pay">
+            <label for="visa">Visa</label><br>
+            <input type="radio" id="masterCard" name="pay">
+            <label for="masterCard">Master Card</label><br>
+            <input type="radio" id="paypal" name="pay">
+            <label for="paypal">PayPal</label><br>
+            <input type="radio" id="bitcoin" name="pay">
+            <label for="bitcoin">Bitcoin</label><br>
+        </div>
+        <p>Do you have premium account?</p>
+        <div>
+            <input type="checkbox" id="premium">
+            <label for="premium">Subscribe</label><br><br>
+        </div>
+
+
+        <input type="submit" id="submit" value="Confirm">
+    </div>
+
+        <hr>
+
+        <div class="result">
+            <h2 id="result0"></h2>
+            <p id="result1"></p>
+            <p id="result2"></p>
+        </div>
+
+
+    
+    <script src="script.js"></script>
+</body>
+</html>
