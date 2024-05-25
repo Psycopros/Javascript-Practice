@@ -14,6 +14,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(08) Javascript Math Object](https://github.com/Psycopros/Javascript-Practice/tree/main/(08)_Javascript_math_object)
 > - [(09) Javascript RNG Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(09)_Javascript_RNG_program)
 > - [(10) Javascript If statement](https://github.com/Psycopros/Javascript-Practice/tree/main/(10)_Javascript_If_Statement)
+> - [(11) Javascript Checked Property](https://github.com/Psycopros/Javascript-Practice/tree/main/(11)_Javascript_checked_property)
 
 ## Goals
 
