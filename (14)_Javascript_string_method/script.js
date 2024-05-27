@@ -11,7 +11,7 @@ console.log("method upercase = " + userName.toLocaleUpperCase());
 console.log("method lowercase = " + userName.toLocaleLowerCase());
 console.log("method Repeat = " + userName.repeat(3));
 console.log("method starWith = " + userName.startsWith(" "));
-console.log("method endWith = " + userName2.charAt(" "));
+console.log("method endWith = " + userName2.endsWith(" "));
 console.log("method include = " + userName2.includes(" "));
 
 console.log("method Replace = " + money.replaceAll("." , ""));
