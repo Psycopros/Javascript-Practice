@@ -17,6 +17,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(11) Javascript Checked Property](https://github.com/Psycopros/Javascript-Practice/tree/main/(11)_Javascript_checked_property)
 > - [(12) Javascript Ternary Operator)](https://github.com/Psycopros/Javascript-Practice/tree/main/(12)_Javascript_ternary_operator)
 > - [(13) Javascript Switch Case](https://github.com/Psycopros/Javascript-Practice/tree/main/(13)_Javascript_switch_sase)
+> - [(14) Javascript String Method](https://github.com/Psycopros/Javascript-Practice/tree/main/(14)_Javascript_string_method)
 
 ## Goals
 
