@@ -20,6 +20,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(14) Javascript String Method](https://github.com/Psycopros/Javascript-Practice/tree/main/(14)_Javascript_string_method)
 > - [(15) Javascript String Slicing](https://github.com/Psycopros/Javascript-Practice/tree/main/(15)_Javascript_string_sclicing)
 > - [(16) Javascript Chaining Method](https://github.com/Psycopros/Javascript-Practice/tree/main/(16)_Javascript_chaining_method)
+> - [(16) Javascript Logical Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(17)_Javascript_logical_operator)
 
 ## Goals
 
