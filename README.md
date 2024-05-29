@@ -19,6 +19,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(13) Javascript Switch Case](https://github.com/Psycopros/Javascript-Practice/tree/main/(13)_Javascript_switch_sase)
 > - [(14) Javascript String Method](https://github.com/Psycopros/Javascript-Practice/tree/main/(14)_Javascript_string_method)
 > - [(15) Javascript String Slicing](https://github.com/Psycopros/Javascript-Practice/tree/main/(15)_Javascript_string_sclicing)
+> - [(16) Javascript Chaining Method](https://github.com/Psycopros/Javascript-Practice/tree/main/(16)_Javascript_chaining_method)
 
 ## Goals
 
