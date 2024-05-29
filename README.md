@@ -26,8 +26,8 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 
  1. Understanding and master javascript
  2. Able to make some project with javascript based
- 3. First step to learn many javascript framework like vue.js , nuxt.js and more
- 4. Can use my skill on real world such as work and job
+ 3. First step to learn many advanced stuff like Typescript, vue.js , nuxt.js, node.js and more!
+ 4. Can use my skill on real world such as work and getting job
 
 ##  Resource
 Big thanks to this amazing stuff i can learn JavaScript for free. you should give a try!
