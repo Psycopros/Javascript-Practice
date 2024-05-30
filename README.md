@@ -21,6 +21,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(15) Javascript String Slicing](https://github.com/Psycopros/Javascript-Practice/tree/main/(15)_Javascript_string_sclicing)
 > - [(16) Javascript Chaining Method](https://github.com/Psycopros/Javascript-Practice/tree/main/(16)_Javascript_chaining_method)
 > - [(16) Javascript Logical Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(17)_Javascript_logical_operator)
+> - [(16) Javascript Strict Equality](https://github.com/Psycopros/Javascript-Practice/tree/main/(18)_Javascript_strict_equality)
 
 ## Goals
 
