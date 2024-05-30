@@ -37,11 +37,11 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 Big thanks to this amazing stuff i can learn JavaScript for free. you should give a try!
 
 **Video Learning**
-> - [Javascript Playlist by BroCode (YouTube)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1): very easy tutorial and strightforward to practice best choice if you want fast learn
+> - [Javascript Playlist by BroCode (YouTube)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1): very easy tutorial and strightforward to practice best choice if you want fast learn!
 
 
 **Documentation Learning**
-> - [JavaScript Tutorial (w3school)](https://www.w3schools.com/js/): best website to learn if you want know all lesson easily with many example you can try directly
+> - [JavaScript Tutorial (w3school)](https://www.w3schools.com/js/): best website to learn if you want know all lesson easily with many example you can try directly on site
 
 
 **Detailed Learning**
