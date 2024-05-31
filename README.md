@@ -24,6 +24,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(18) Javascript Strict Equality](https://github.com/Psycopros/Javascript-Practice/tree/main/(18)_Javascript_strict_equality)
 > - [(19) Javascript While Loop](https://github.com/Psycopros/Javascript-Practice/tree/main/(19)_Javascript_while_loop)
 > - [(20) Javascript For Loop](https://github.com/Psycopros/Javascript-Practice/tree/main/(20)_Javascript_for_loop)
+> - [(20) Javascript Number Guessing Game PRO](https://github.com/Psycopros/Javascript-Practice/tree/main/(21.5)_Javascript_number_guessing_game_pro)
 
 
 ## Goals
