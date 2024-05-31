@@ -28,8 +28,9 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(21.5) Javascript Number Guessing Game PRO](https://github.com/Psycopros/Javascript-Practice/tree/main/(21.5)_Javascript_number_guessing_game_pro)
 > - [(22) Javascript function](https://github.com/Psycopros/Javascript-Practice/tree/main/(22)_Javascript_function)
 > - [(23) Javascript Variable Scope](https://github.com/Psycopros/Javascript-Practice/tree/main/(23)_Javascript_variable_scope)
+> - [(24) Javascript Temperature Conversion Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(24)_Javascript_temperature_conversion_program)
 
-(24)_Javascript_temperature_conversion_program
+
 ## Goals
 
  1. Understanding and master javascript
