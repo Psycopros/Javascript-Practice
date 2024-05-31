@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    font-family: helvetica;
+}
+
+.menu{
+    border: 2px solid black;
+    margin: 20px;
+}
+
+#R1, #R2{
+    font-size: 36px;
+    margin: 0px;
+    padding: 5px 5px;
+}
+
+#guess-result{
+    font-size: 64px;
+    margin: 0px;
+    padding: 25px;
+}
+
+.border{
+    display: flex;
+    justify-content: center;
+}
+
+.message, .attempt{
+    border: 2px solid black;
+    width: 40%;
+    margin: 0px 5%;
+    font-size: 24px;
+}
+
+.label{
+    font-size: 24px;
+}
+
+#guess-input{
+    resize: none;
+    margin: 10px;
+    font-size: 48px;
+    text-align: center;
+}
+
+#submit{
+    font-size: 24px;
+}

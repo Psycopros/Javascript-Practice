@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Number Guessing Game</h1> <hr>
+
+    <div class="menu">
+        <p id="R1"></p> <!-- win or lose message -->
+        <p id="R2"></p> <!-- the answer is message-->
+        <p id="guess-result"></p> <!-- random number result answer-->  
+    </div>
+
+    <div class="border">
+        <div class="message">
+            <P id="error-input"></P><!-- indicator for too low, to high, number must between 0-99, answer must be number--> 
+        </div>
+
+        <div class="attempt">
+            <P id="total-att"></P><!-- total attempt guesses--> 
+        </div>
+    </div> <br> <br>
+    
+    <label class="label" for="guess-input">Type Number:</label><br>
+    <textarea id="guess-input" rows="1" cols="5" maxlength="2"></textarea><br>
+    <button id="submit" type="submit">Submit</button>
+
+    <br><br>
+    <hr>
+    <p>&copy;Psycode</p>
+
+    
+
+    
+    
+    <script src="script.js"></script>
+</body>
+</html>
