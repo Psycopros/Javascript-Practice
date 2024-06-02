@@ -16,8 +16,5 @@ document.getElementById("submit").onclick = function(){
     console.log(guessInput + " l ");
     if(guessInput === NaN){
         console.log(guessInput + " won ");
-    }
-    
+    }  
 }
-    
-
