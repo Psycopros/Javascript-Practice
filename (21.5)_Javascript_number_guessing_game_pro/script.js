@@ -18,3 +18,4 @@ document.getElementById("submit").onclick = function(){
         console.log(guessInput + " won ");
     }  
 }
+
