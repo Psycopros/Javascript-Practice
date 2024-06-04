@@ -30,6 +30,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(23) Javascript Variable Scope](https://github.com/Psycopros/Javascript-Practice/tree/main/(23)_Javascript_variable_scope)
 > - [(24) Javascript Temperature Conversion Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(24)_Javascript_temperature_conversion_program)
 > - [(25) Javascript Arrays](https://github.com/Psycopros/Javascript-Practice/tree/main/(25)_Javascript_arrays)
+> - [(26) Javascript 2D Arrays](https://github.com/Psycopros/Javascript-Practice/tree/main/(26)_Javascript_2D_arrays)
 
 
 
