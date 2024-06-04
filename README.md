@@ -31,7 +31,7 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(24) Javascript Temperature Conversion Program](https://github.com/Psycopros/Javascript-Practice/tree/main/(24)_Javascript_temperature_conversion_program)
 > - [(25) Javascript Arrays](https://github.com/Psycopros/Javascript-Practice/tree/main/(25)_Javascript_arrays)
 > - [(26) Javascript 2D Arrays](https://github.com/Psycopros/Javascript-Practice/tree/main/(26)_Javascript_2D_arrays)
-
+> - [(27) Javascript Spread Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(27)_Javascript_spread_operator)
 
 
 ## Goals
