@@ -35,7 +35,6 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 
 
 ## Goals
-
  1. Understanding and master javascript
  2. Able to make some project with javascript based
  3. First step to learn many advanced stuff like Typescript, vue.js , nuxt.js, node.js and more!
