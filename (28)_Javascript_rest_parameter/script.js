@@ -49,5 +49,4 @@ function fullname(...names){
 }
 
 let yourname = fullname("letnan", "demonic", "miss", "Rize", "Tedeza");
-
 console.log(yourname);
