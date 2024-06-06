@@ -34,7 +34,6 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(27) Javascript Spread Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(27)_Javascript_spread_operator)
 > - [(28) Javascript Rest Parameter](https://github.com/Psycopros/Javascript-Practice/tree/main/(28)_Javascript_rest_parameter)
 
-
 ## Goals
  1. Understanding and master javascript
  2. Able to make some project with javascript based
