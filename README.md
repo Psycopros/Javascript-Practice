@@ -32,6 +32,8 @@ Welcome to my personal daily JavaScript learning! I try my best learn many stuff
 > - [(25) Javascript Arrays](https://github.com/Psycopros/Javascript-Practice/tree/main/(25)_Javascript_arrays)
 > - [(26) Javascript 2D Arrays](https://github.com/Psycopros/Javascript-Practice/tree/main/(26)_Javascript_2D_arrays)
 > - [(27) Javascript Spread Operator](https://github.com/Psycopros/Javascript-Practice/tree/main/(27)_Javascript_spread_operator)
+> - [(28) Javascript Rest Parameter](https://github.com/Psycopros/Javascript-Practice/tree/main/(28)_Javascript_rest_parameter)
+
 
 
 ## Goals
