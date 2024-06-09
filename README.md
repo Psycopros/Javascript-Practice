@@ -57,3 +57,4 @@ Big thanks to this amazing stuff i can learn JavaScript for free. you should giv
 **Detailed Learning**
 > - [Chat-GPT](https://chatgpt.com/): good if you want very detailed explanation and more advanced case of javascript implementation or example
 > - [Gemini](https://gemini.google.com/): Same like GPT but with faster responded with many output in sametime also free trial premium model!
+> - [BlackBox AI](https://blackboxai.com/): Another chat ai bot but this one build and mainly focus for programing. there also VSCode extension that help much
