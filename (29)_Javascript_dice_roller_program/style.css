@@ -1,0 +1,43 @@
+body{
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+
+#numOfDice{
+    font-size: 36px;
+    width: 100px;
+    text-align: center;
+}
+
+button{
+    padding: 5px;
+    margin: 10px;
+    font-size: 24px;
+    border-radius: 5px;
+    border: none;
+    background-color: hsl(274, 100%, 56%);
+    color: white;
+}
+
+button:hover{
+    background-color: hsl(274, 100%, 70%);
+}
+
+#images img{
+    width: 90px;
+    margin: auto;
+    padding: 5px;
+
+}
+
+.border{
+    margin: auto;
+    border: 2px solid black;
+    width: 200px;
+}
+
+#diceSum{
+    font-size: 36px;
+    margin: 10px;
+}
